@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harshit Sen</h1>
-<h3 align="center">An aspiring Software Developer.</h3>
+<h3 align="center">A Web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sen-harshit03&label=Profile%20views&color=0e75b6&style=flat" alt="sen-harshit03" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sen-harshit03" alt="sen-harshit03" /></a> </p>
 
-- 🌱 I’m currently learning **Data structures and Algorithms along with Advance Java**
+- I’m currently learning **React JS**
 
-- 👯 I’m looking to collaborate on **some open source projects**
+- I’m looking to collaborate on **some open source projects**
 
-- 📫 How to reach me **linkedin.com/in/harshit-sen-kumar**
+-  How to reach me **linkedin.com/in/harshit-sen-kumar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
