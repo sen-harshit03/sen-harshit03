@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Sen</h1>
 <h3 align="center">A Frontend Developer</h3>
 
-- 🔭 I’m currently working on **two different React Projects and grinding on Data Structures and Algorithms**
+- 🔭 I’m currently working on **React Projects and grinding on Data Structures and Algorithms**
 
 - 🌱 I’m currently learning **React**
 
