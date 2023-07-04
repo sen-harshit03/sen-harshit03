@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Harshit Sen</h1>
-<h3 align="center">A Frontend Developer</h3>
+<h1 align="center">Hi 👋, I'm Harshit Sen Kumar</h1>
+<h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on **React Projects and grinding on Data Structures and Algorithms**
+- 🔭 I’m currently working on **Spring Boot projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend and System Design**
 
-- 👯 I’m looking to collaborate on **Web Projects**
+- 👯 I’m looking to collaborate on **Spring Projects**
 
 - 📫 How to reach me **linkedin.com/in/harshit-sen-kumar**
 
